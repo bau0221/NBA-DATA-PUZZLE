@@ -1,0 +1,6 @@
+{
+  "name": "NBA 數據拼圖 (Data Puzzle)",
+  "description": "融合生涯總共、場均與顛峰模式的 NBA 數據挑戰小遊戲！支援單人挑戰或與好友對戰。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
